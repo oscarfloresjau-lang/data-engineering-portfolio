@@ -44,6 +44,6 @@ KPIs de cumplimiento de entrega y rentabilidad.
 - [x] Bronze
 - [x] Silver
 - [x] Gold
-- [ ] Orquestación con Databricks Workflows
+- [x] Orquestación con Databricks Workflows
 - [ ] Conexión a Power BI
 - [ ] Tests con pytest + CI básico
